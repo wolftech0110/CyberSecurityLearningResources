@@ -26,13 +26,7 @@ Here are some sites that I would review to get started learning the basics of Cy
 - Reverse Engineering (MalwareTech) - https://malwaretech.com/labs/
 - Hands-On Web Exploitation Course by Nahamsec - https://app.hackinghub.io/hubs/nahamsec-bug-bounty-course
 - HackTricks - https://book.hacktricks.xyz/
-- PayloadsAllTheThings - https://github.com/swisskyrepo/PayloadsAllTheThings
-- GTFOBins - https://gtfobins.github.io/
-- LOLBAS (Living Off The Land Binaries) - https://lolbas-project.github.io/
 - Exploit-DB - https://www.exploit-db.com/
-- SecLists (Wordlists and Payloads) - https://github.com/danielmiessler/SecLists
-- WADComs (Windows/AD Command Reference) - https://wadcoms.github.io/
-- Hacksplaining - https://www.hacksplaining.com/
 - ired.team (Red Team Notes) - https://www.ired.team/
 
 ## Cloud Security
@@ -89,7 +83,7 @@ Here are some sites that I would review to get started learning the basics of Cy
 - TCM Security (PNPT) - https://certifications.tcm-sec.com/
 - CompTIA (Security+, CySA+, PenTest+) - https://www.comptia.org/
 - SANS/GIAC - https://www.giac.org/
-- HTB Certifications (CPTS, CBBH, CDSA) - https://academy.hackthebox.com/preview/certifications
+- HTB Certifications (CPTS, CWES, CDSA) - https://academy.hackthebox.com/preview/certifications
 
 ## Bug Bounty Platforms
 - HackerOne - https://www.hackerone.com/
@@ -106,7 +100,6 @@ Here are some sites that I would review to get started learning the basics of Cy
 - PTES (Penetration Testing Execution Standard) - http://www.pentest-standard.org/
 
 ## Communities
-- InfoSec716 (Buffalo, NY) - Local cybersecurity meetup
 - OWASP - https://owasp.org/
 - DEF CON - https://defcon.org/
 - BSides - http://www.securitybsides.com/
